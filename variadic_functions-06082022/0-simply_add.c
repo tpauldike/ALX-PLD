@@ -1,6 +1,6 @@
 /* A programs that adds 2 and 5 and prints the sum */
 
-#include <stdio.h> /* The header file containing the printf fuction */
+#include <stdio.h> /* The header file containing the printf function */
 
 /**
  * main - Entry point of the program
@@ -23,8 +23,8 @@ int main(void)
 	sum = x + y;
 
 	/**
-	 *  note that everything written so far could in just one
-	 * line, as follows;
+	 * note that everything written so far could be wrtten
+	 * in just one line, as follows;
 	 * int x = 2, y = 5, sum = x + y;
 	 */
 	printf("%i + %i = %i\n", x, y, sum); /* the instruction to print */
