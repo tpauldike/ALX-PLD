@@ -29,6 +29,7 @@ int main(void)
         add_up(7, 1, 1, 3, 2, 1, 1, 2);
         
         /**
+	 * Line number 38 was executed as follows:
          * since the first argument(3) represents the number
          * of variables to be added, hence,
          * the variables will just be the first 3(2,1,1)
