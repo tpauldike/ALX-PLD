@@ -37,15 +37,15 @@ I played with ordered, unordered and nested lists, and I got this:
    + Tony Eseh
    + John Ofem
 3. About me a bit
-   - Best Colours
-     - White
-     - Gold
-     - Black
-   - Best Foods
-     *I have no particular best food, my best foods are:*
-     - Nutritious
-     - Hygienic
-     - Tasty
+   1. Best Colours
+     1 White
+     2 Gold
+     3 Black
+   2. Best Foods
+     	  *I have no particular best food, my best foods are:*
+     1. Nutritious
+     2. Hygienic
+     3. Tasty
 
 The most interesting part is how that I had to push this to git first before
 I could see whether or not my syntax were correct. Look at Best Foods again
