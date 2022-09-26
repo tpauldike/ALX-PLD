@@ -37,12 +37,12 @@ I played with ordered, unordered and nested lists, and I got this:
    + Tony Eseh
    + John Ofem
 3. About me a bit
-   1. Best Colours
+   - Best Colours
      - White
      - Gold
      - Black
-   2. Best Foods  return
-     	  *I have no particular best food, my best foods are:*
+   - Best Foods\
+     *I have no particular best food, my best foods are:*
      - Nutritious
      - Hygienic
      - Tasty
