@@ -27,10 +27,10 @@ next will be some multiple paragraph **blockquotes** as follows:
 
 I played with ordered, unordered and nested lists, and I got this:
 1. My siblings are:
-   - 1 EbubeDike
-   -2 Godleads
-   + 3 Blessing
-   +4 Chichezuom
+   1. EbubeDike
+   2. Godleads
+   3. Blessing
+   4. Chichezuom
 2. My mates in ALX SE Cohort 7 include:
    + Ebube Anyanwu
    + Dr. Obed Ehoneah
