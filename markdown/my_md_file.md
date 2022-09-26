@@ -27,9 +27,9 @@ next will be some multiple paragraph **blockquotes** as follows:
 
 I played with ordered, unordered and nested lists, and I got this:
 1. My siblings are:
-   +1 EbubeDike
-   +2 Godleads
-   +3 Blessing
+   - 1 EbubeDike
+   -2 Godleads
+   + 3 Blessing
    +4 Chichezuom
 2. My mates in ALX SE Cohort 7 include:
    + Ebube Anyanwu
@@ -78,12 +78,12 @@ Let me try writing a variadic function in C that adds all the integers entered
 
 The function prototype for the code above is `int sum_all(const int, ...);`
 
----
 
 ## To Contact me, here is my:
-- [Facebook profiles](https://fb.me/tpauldike)
-- [Twitter space](https://twitter.com/tpauldike)
-- [LinkedIn](https://www.linkedin.com/in/topman-paul-dike-bbb330143)
+- [Facebook profile](https://fb.me/tpauldike)
+- [Twitter profile](https://twitter.com/tpauldike)
+- [LinkedIn profile](https://www.linkedin.com/in/topman-paul-dike-bbb330143)
+- [Tiktok profile](tiktok.com/@tpauldike)
 
 I will write a better one as I make progress; I have seen certain README
 files that made me think that they were written with some word processing
