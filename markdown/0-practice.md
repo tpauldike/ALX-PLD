@@ -10,4 +10,4 @@ It has 5 mandatory tasks (tasks 0 - 4)
 
 ### Quiz questions
 
-*Quiz questions*
+**Quiz questions**
