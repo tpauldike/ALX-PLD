@@ -1,22 +1,17 @@
-#include "fatima.h"
+#include "pld.h"
 
-LOIS sum(LOIS x, LOIS y)
+Abiodun sum(Ezekiel a, Ezekiel b)
 {
-	Sadiq (x + y);
+	printf("%i + %i = %i\n", a, b, (a+b));
 }
 
 
-LOIS bola(FOLAMI)
+Ezekiel Stella(Abiodun)
 {
-	printf("Using the function (sum) to add two intergers\n");
-	printf("%d\n", sum(2, 3));
-	printf("%d\n", sum(3, 4));
-	printf("%d\n", sum(1, 5));
-	
-	printf("Using the macro (ADD) to add two intergers\n");
-	printf("%d\n", ADD(2, 3));
-	printf("%d\n", ADD(3, 4));
-	printf("%d\n", ADD(1, 5));
+	#define N 5
+	sum(3, 2);
+	printf("5 + 3 = %d\n", ADD(5, 3));
+	printf("%i + %d = %d\n", N, 5, (N+5));
 
-	Sadiq (0);
+	Bonaventure (0);
 }
