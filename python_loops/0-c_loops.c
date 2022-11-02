@@ -11,7 +11,7 @@ int main(void)
 	int age;
 
 	printf("Please enter your first name: ");
-	scanf("%c", &letter);	 // %c is for a single character, e.g; 'a'
+	scanf("%s", fname);	 // %c is for a single character, e.g; 'a'
 	// while %s is for more than 1 character (i.e, strings). e.g; 'abc'
 
 	printf("Enter your age: ");
