@@ -7,13 +7,12 @@
 
 int main(void)
 {
-	char fname[20];
+	char letter;
 
 	printf("Please enter your first name: ");
-	scanf("%s", fname);	 // %c is for a single character, e.g; 'a'
+	scanf("%c", &letter);	 // %c is for a single character, e.g; 'a'
 	// while %s is for more than 1 character (i.e, strings). e.g; 'abc'
-	printf("Welcome %s\n", fname);
-		//Welcome ____
+	printf("The letter you entered is %c\n", letter);
 
 	return (0);
 }
