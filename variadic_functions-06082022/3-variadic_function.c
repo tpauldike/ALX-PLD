@@ -28,22 +28,22 @@ int main(void)
         add_up(3, 6, 1, 2);       //9
         add_up(7, 1, 1, 3, 2, 1, 1, 2); //11
 
-        /**
-	 * Line number 38 was executed as follows:
+        add_up(3, 2, 1, 1, 2);
+	/**
+	 * Line number 31 was executed as follows:
          * since the first argument(3) represents the number
          * of variables to be added, hence,
-         * the variables will just be the first 3(2,1,1)
-         * neglecting the last variable 4.
-        */
-        add_up(3, 2, 1, 1, 2);
+         * the function call will add only the first 3 variables(2,1,1)
+         * ignoring the last variable 4.
+	 */
 
+	add_up(7, 1, 1, 3, 2, 3);
         /**
-         * Here, the variables in the list are just 5, but you
+         * Here on line 40, the variables in the list are just 5, but you
          * specific the number of variables to be added as 7
          * the problem is going to assume any 2 variables of the type
          * int to complete a total of 7 variables and then add.
          */
-	add_up(7, 1, 1, 3, 2, 3);
 
         return (0);
 }
