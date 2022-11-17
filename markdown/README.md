@@ -1,6 +1,4 @@
-# Biggest header
-The biggest header size, draws a line on github by default
-## Header 2
-Also draws a line
-### Header 3
-This ome does not draw any line
+# My Markdown Practice
+In this directory, I saved some of the earliest markdown files that I wrote while learning how to write a formatted document as mardown text. Before this time, I use to wonder how people write good and ***attractive README files***
+
+---------
