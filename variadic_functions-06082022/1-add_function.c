@@ -19,7 +19,7 @@ int add_2_num(int x, int y)
  */
 int main(void)
 {
-	int a = 2, b = 7, sum = add_2_num(a, b);
+	int a = 2, b = 5, sum = add_2_num(a, b);
 	printf("%i + %i = %i\n", a, b, sum);
 
 	return(0);
